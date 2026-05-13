@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Hi, I'm [Risper Audi] 👋
+# Hi, I'm Risper Audi 
 
 ### Building AI that works for Africa.
 
@@ -23,10 +23,10 @@ I'm a final-year CS student at **Kabarak University** and the **Data Science & M
 
 My focus is on **applied AI for African healthcare and infrastructure contexts** — building systems that are accurate, explainable, and actually deployable in low-resource settings. I care about the gap between "impressive demo" and "works in a Kenyan clinic."
 
-- 🔬 Currently building an **AI-powered myopia screening platform** for East African populations
-- 📡 Explored power source classification using ML on sensor data from Sierra Leone (nLine)
-- 🚨 Built **ResQ** — a real-time emergency alert system with WebSocket, live maps, and an admin dashboard
-- 🎓 Actively seeking **remote ML/Data Science roles and internships**
+-  Currently building an **AI-powered myopia screening platform** for East African populations
+-  Explored power source classification using ML on sensor data from Sierra Leone (nLine)
+-  Built **ResQ** — a real-time emergency alert system with WebSocket, live maps, and an admin dashboard
+-  Actively seeking **remote ML/Data Science roles and internships**
 
 ---
 
@@ -34,8 +34,8 @@ My focus is on **applied AI for African healthcare and infrastructure contexts**
 
 | Project | What it does | Stack |
 |---|---|---|
-| [🔬 Myopia Screening Platform](https://github.com/[your-username]/[repo-name]) | AI-assisted eye screening for East African clinics — EfficientNet-B3, Grad-CAM explainability, image quality gating | Python · PyTorch · FastAPI |
-| [⚡ Power Source Classifier](https://github.com/[your-username]/[repo-name]) | Classifying electricity sources from sensor time-series data — Sierra Leone grid infrastructure | Python · scikit-learn · XGBoost |
+| [ Myopia Screening Platform](https://github.com/[your-username]/[repo-name]) | AI-assisted eye screening for East African clinics — EfficientNet-B3, Grad-CAM explainability, image quality gating | Python · PyTorch · FastAPI |
+| [ Power Source Classifier](https://github.com/[your-username]/[repo-name]) | Classifying electricity sources from sensor time-series data — Sierra Leone grid infrastructure | Python · scikit-learn · XGBoost |
 
 ---
 
@@ -89,7 +89,7 @@ I lead monthly ML sessions at the **DSC Kabarak University** — covering Python
 
 I'm actively looking for **remote ML engineering, data science, or AI research** roles and internships — especially in healthtech or infrastructure for African markets.
 
-📩 Reach me at **[audirisper@gmail.com]** or connect on [LinkedIn](https://linkedin.com/in/[risper-audi).
+Reach me at **[audirisper@gmail.com]** or connect on [LinkedIn](https://linkedin.com/in/[risper-audi).
 
 ---
 
